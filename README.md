@@ -2,8 +2,8 @@
 
 An ON AIR sign in your MacBook touch bar taking the microphone status from Zoom. When muted, a small grey muted indicator is displayed... but when you're unmuted and about to make a fool of yourself, a big red ON AIR display is shown on your touch bar hopefully getting your attention before it's too late.
 
-![Muted](Muted.png)
-![On Air](OnAir.png)
+![Muted](screenshots/Muted.png)
+![On Air](screenshots/OnAir.png)
 
 Requires [BetterTouchTool](https://folivora.ai). It's cheap and super powerful. Go support BTT if you're not already.
 
